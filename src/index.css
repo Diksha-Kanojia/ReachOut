@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* small global reset */
+html, body, #root {
+  height: 100%;
+}
+body {
+  margin: 0;
+  background: black; /* so the galaxy blends nicely if transparent */
+}
