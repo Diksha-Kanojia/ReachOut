@@ -51,35 +51,3 @@ npm run build
 npm run lint
 ```
 
-## Project Structure
-```
-vite-project/
-├── public/
-├── src/
-│   ├── App.jsx
-│   ├── Assessment.jsx
-│   ├── AssessmentFull.jsx
-│   ├── Blogs.jsx
-│   ├── Chatbot.jsx
-│   ├── Footer.jsx
-│   ├── Galaxy.jsx
-│   ├── Helplines.jsx
-│   ├── Hero.jsx
-│   ├── Navbar.jsx
-│   ├── Resources.jsx
-│   ├── ResourcesFull.jsx
-│   ├── assets/
-│   └── services/
-│       └── groqService.js
-├── index.html
-├── package.json
-├── tailwind.config.js
-├── postcss.config.js
-└── vite.config.js
-```
-
-## Contributing
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-This project is licensed under the MIT License.
