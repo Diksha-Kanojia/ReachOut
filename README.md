@@ -5,11 +5,11 @@ ReachOut is a mental health support web application built with React and Vite. I
 
 ## Features
 
-- **Assessment:** Quick mental health assessments for users.
-- **Resources:** Curated mental health resources and articles.
-- **Helplines:** List of helplines for immediate support.
-- **Chatbot:** AI-powered chatbot for guidance and conversation.
-- **Blogs:** Informative blog posts on mental health topics.
+- **Assessment :** Quick mental health assessments for users.
+- **Resources :** Curated mental health resources and articles.
+- **Helplines :** List of helplines for immediate support.
+- **Chatbot :** AI-powered chatbot for guidance and conversation.
+- **Blogs :** Informative blog posts on mental health topics.
 
 ## Tech Stack
 
