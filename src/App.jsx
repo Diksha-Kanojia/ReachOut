@@ -29,10 +29,10 @@ const Home = () => {
   return (
     <>
       <Navbar />
-      <div className="relative">
+      <div id="hero" className="relative ">
         <div style={{ width: '100%', height: '100vh', position: 'relative' }}>
           <Galaxy />
-          <div id="hero">
+          <div >
             <HeroSection />
           </div>
         </div>
