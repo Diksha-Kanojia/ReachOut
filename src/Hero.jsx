@@ -15,7 +15,7 @@ function HeroSection() {
       {/* CTAs */}
       <div className="mt-6 flex flex-col sm:flex-row gap-4">
         <a
-          href="/helpline"
+          href="#helplines"
           className="px-6 py-3 bg-gray-900 text-white font-semibold rounded-[34px] shadow-lg hover:bg-gray-600 transition"
         >
           Get Help Now
